@@ -13,7 +13,7 @@ ANDROID
 
 1 - Acesse o WhatsApp > **Mais opções > Nova transmissão**
 
-[](http://s2.glbimg.com/5dTuzYT0UGxvL8POpS9rJFAeDrU=/0x0:695x616/695x616/s.glbimg.com/po/tt2/f/original/2015/09/14/3.png)
+![](http://s2.glbimg.com/5dTuzYT0UGxvL8POpS9rJFAeDrU=/0x0:695x616/695x616/s.glbimg.com/po/tt2/f/original/2015/09/14/3.png)
 
 2 - Em seguida selecione ou busque os contatos que você deseja adicionar à
 lista.
